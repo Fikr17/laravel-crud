@@ -1,0 +1,1 @@
+console.log("tes laravel, berada di folder /public/js")
